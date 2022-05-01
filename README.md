@@ -18,9 +18,9 @@ ___
     2ª Sprint:📁
 Nessa etapa desenvolveremos uma API para acesso via Web substituindo a
 interface console utilizada na primeira etapa. Todas as operações usadas na etapa 1
-devem estar presentes na API. Deve ser utilizado o framework **Spring Boot** para o
+devem estar presentes na API. Deve ser utilizado o framework *Spring Boot* para o
 desenvolvimento da API. Os dados devem ser armazenados em um banco de dados
-**MySQL**.
+*MySQL*.
 ---
     3ª Sprint:🗃️
 Nessa última fase do projeto serão inseridos os testes unitários necessários. Os
