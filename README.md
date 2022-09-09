@@ -35,5 +35,5 @@ regras de negócio definidas na primeira etapa.
 
 - [Anderson Meurer](https://www.linkedin.com/in/andersonmeurer/) 👨🏻‍💻 ;
 - [João Gabriel Melo](https://www.linkedin.com/in/joaogrbm/) 👨🏼‍💻;
-- [Leanderson Dias de Lima](https://www.linkedin.com/in/leanderson-dias-de-lima-15056215b/) 👨🏾‍💻;
+- [Leanderson Dias de Lima](https://www.linkedin.com/in/leanderson-dias-de-lima/) 👨🏾‍💻;
 - [Roberto Thomé](https://www.linkedin.com/in/roberto-thome-dev/) 👨‍💻.
